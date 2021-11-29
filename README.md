@@ -1,25 +1,25 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://template.karngyan.com">
+  <a href="https://template.nmckenryan.com">
     <img src="static/favicon.ico" alt="Logo" width="80" height="80">
   </a>
   <br/><br/>
-  <a href="https://template.karngyan.com">
+  <a href="https://template.nmckenryan.com">
     <img src="https://api.netlify.com/api/v1/badges/88476203-8c04-4a61-9be3-cdc713690283/deploy-status" alt="Netlify Status">
   </a>
 
-  <h3 align="center">template.karngyan.com</h3>
+  <h3 align="center">template.nmckenryan.com</h3>
 
   <p align="center">
-    Dark themed, SEO friendly: Nuxt Content + TailwindCSS + Firebase + i18n based SPA for <strong>procrastinating</strong> developers to quickly spin up their own kickass blog and showcase their projects.
+    Dark themed, SEO friendly: Nuxt Content + TailwindCSS + Firebase + i18n based SPA for developers to quickly spin up their own kickass blog and showcase their projects.
   </p>
 </p>
 
 
-[![Product Name Screen Shot][product-screenshot]](https://template.karngyan.com)
+[![Product Name Screen Shot][product-screenshot]](https://template.nmckenryan.com)
 
-Visit: [template.karngyan.com](https://template.karngyan.com) to see all feature enabled version of this template.
+Visit: [template.nmckenryan.com](https://template.nmckenryan.com) to see all feature enabled version of this template.
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -43,7 +43,7 @@ Visit: [template.karngyan.com](https://template.karngyan.com) to see all feature
 2. Clone your copy and create your own branch out of it.
 ```bash
 # replace <username> with your username
-git clone git@github.com:<username>/karngyan.com.git
+git clone git@github.com:<username>/nmckenryan.com.git
 git checkout -b website
 ```
 3. Choose your favorite editor and open the project.
@@ -60,13 +60,13 @@ $ yarn dev
 
 # open localhost:3000
 ```
-> Page might not load right now, you can set `firebase.enabled = false` in `karngyan.config.js` for now. Read along.
+> Page might not load right now, you can set `firebase.enabled = false` in `nmckenryan.config.js` for now. Read along.
 
-4. Edit `karngyan.config.js` to your liking. You can turn on and off sections/pages by changing the `enabled` value for respective objects.
+4. Edit `nmckenryan.config.js` to your liking. You can turn on and off sections/pages by changing the `enabled` value for respective objects.
     - You can add your images to `static` directory. It matches to root when deployed.
     - Update the `strings` object accordingly.
 5. To enable comments and likes on blog posts and project posts, we use [Firebase](https://firebase.google.com/).
-If you don't need that, set `firebase.enabled = false` in `karngyan.config.js`, and move to the next step. Otherwise follow these:
+If you don't need that, set `firebase.enabled = false` in `nmckenryan.config.js`, and move to the next step. Otherwise follow these:
     - Create a firebase project.
     - Create a web app and get the firebase config object. (You can follow this [video](https://www.youtube.com/watch?v=k1D0_wFlXgo))
     - Enable Authorization (Google Provider supported as of now)
@@ -109,7 +109,7 @@ You can also set up [forestry](https://forestry.io) to never open code and use a
 
 ## Other Deployment Options
 
-My own website [karngyan.com](https://karngyan.com) is actually deployed on AWS in an S3 bucket, with Cloudfront. But that comes with a few caveats to configure and maintain.
+My own website [nmckenryan.com](https://nmckenryan.com) is actually deployed on AWS in an S3 bucket, with Cloudfront. But that comes with a few caveats to configure and maintain.
 Anyways the gulpfile.js to deploy to AWS is committed with the project if you feel like you want to check it out.
 
 <!-- CONTRIBUTING -->
@@ -132,7 +132,7 @@ Raise a PR when your website's up to add you here.
 
 * [Anamika Pandey](https://github.com/anamikapandey745) - [anamika.dev](https://anamika.dev)
 * [Claudio Canales](https://github.com/klaudioz) - [klaudioz.eth](https://klaudioz.eth.link/)
-* [Gyan Prakash Karn](https://github.com/gyankarn) - [karngyan.com](https://karngyan.com)
+* [Gyan Prakash Karn](https://github.com/gyankarn) - [nmckenryan.com](https://nmckenryan.com)
 * [Nenad Radovanovic](https://github.com/nesaplay) - [nenad.xyz](https://nenad.xyz)
 * [Ankur Dubey](https://github.com/ankurdubey521) - [ankurdubey.com](https://ankurdubey.com) / [ankurdubey.eth.limo](https://ankurdubey.eth.limo)
 
@@ -145,16 +145,16 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Karn - [@gyankarn](https://twitter.com/gyankarn) - mail@karngyan.com
+Karn - [@gyankarn](https://twitter.com/gyankarn) - mail@nmckenryan.com
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/karngyan/karngyan.com/blob/template/LICENSE
+[license-url]: https://github.com/nmckenryan/nmckenryan.com/blob/template/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/karngyan
-[product-screenshot]: assets/template.karngyan.com.png
+[linkedin-url]: https://linkedin.com/in/nmckenryan
+[product-screenshot]: assets/template.nmckenryan.com.png
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).

@@ -11,7 +11,7 @@
     </div>
   </div>
   <div data-aos="zoom-in" class="max-w-4xl mx-4 border border-dashed border-gray-700 sm:mx-auto bg-gray-900 shadow-md rounded-md overflow-hidden sm:rounded-lg">
-    <div v-if="$config.social.codestats" class="px-4 py-5 flex flex-row justify-between border-b border-indigo-600 sm:px-6">
+    <div v-if="$config.social.codestats" class="px-4 py-5 flex flex-row justify-between border-b border-yellow-400 sm:px-6">
       <div class="w-full">
         <a :href="`https://codestats.net/users/${$config.social.codestats}`" target="_blank" rel="noreferrer">
           <dl>
@@ -19,7 +19,7 @@
               Level {{ level }}
             </dt>
             <dd class="mt-1 flex justify-between items-baseline md:flex lg:flex">
-              <div class="flex items-baseline text-2xl leading-8 font-semibold text-indigo-600">
+              <div class="flex items-baseline text-2xl leading-8 font-semibold text-yellow-400">
                 {{ totalXP.toLocaleString() }} XP
                 <span class="ml-2 text-sm leading-5 font-medium text-gray-500">
                   from {{ (totalXP - newXP).toLocaleString() }}

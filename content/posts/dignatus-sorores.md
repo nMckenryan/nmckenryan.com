@@ -13,7 +13,7 @@ category: dev
 author:
   name: karn
   twitter: gyankarn
-  image: /images/bigheadkarngyan.png
+  image: /images/nigel-headshot.jpg
 ---
 
 Lorem markdownum facinus tollensque aethera acutae ripa arbor duorum, **vae**.
@@ -29,16 +29,16 @@ You can add an image like this:
 Add your images to static directory and
 
 ```md
-![Big Head Karn](/images/bigheadkarngyan.png)
+![Big Head Karn](/images/nigel-headshot.jpg)
 ```
 
-![Big Head Karn](/images/bigheadkarngyan.png)
+![Big Head Karn](/images/nigel-headshot.jpg)
 
 Or like this if you want to resize it:
 ```html
-<img width="30%" src="/images/bigheadkarngyan.png" alt="Big Head Karn"/>
+<img width="30%" src="/images/nigel-headshot.jpg" alt="Big Head Karn"/>
 ```
-<img width="30%" src="/images/bigheadkarngyan.png" alt="Big Head Karn"/>
+<img width="30%" src="/images/nigel-headshot.jpg" alt="Big Head Karn"/>
 
 Dignatus sorores
 ================

@@ -13,7 +13,7 @@ category: interview
 author:
   name: karn
   twitter: gyankarn
-  image: /images/bigheadkarngyan.png
+  image: /images/nigel-headshot.jpg
 ---
 
 # Traderet altera id subitis coeunt in haut

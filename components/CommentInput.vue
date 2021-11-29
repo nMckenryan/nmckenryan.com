@@ -10,7 +10,7 @@
     </div>
     <div class="flex justify-end">
       <button @click="reset" type="button" class="bg-gray-900 py-2 px-4 rounded-md shadow-sm text-xs font-medium text-blue-gray-900 hover:bg-black focus:outline-none focus:ring-2 focus:ring-offset-transparent focus:ring-indigo-900">reset</button>
-      <button @click="postComment" type="button" class="ml-3 inline-flex justify-center py-2 px-4 shadow-sm text-xs font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-transparent focus:ring-gray-900">post</button>
+      <button @click="postComment" type="button" class="ml-3 inline-flex justify-center py-2 px-4 shadow-sm text-xs font-medium rounded-md text-white bg-yellow-400 hover:bg-yellow-300 focus:outline-none focus:ring-2 focus:ring-offset-transparent focus:ring-gray-900">post</button>
     </div>
   </div>
 </template>

@@ -1,5 +1,5 @@
 {
-  "name": "karngyan.com",
+  "name": "nmckenryan.com",
   "author": "Karn",
   "version": "1.0.0",
   "private": true,
@@ -27,7 +27,7 @@
     "fibers": "^5.0.0",
     "firebase": "^8.6.7",
     "github-calendar": "^2.2.7",
-    "nuxt": "^2.15.3",
+    "nuxt": "^2.15.8",
     "nuxt-i18n": "^6.27.0",
     "pdfvuer": "^1.8.3",
     "prism-themes": "^1.7.0",
